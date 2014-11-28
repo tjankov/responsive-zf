@@ -1,7 +1,9 @@
 ## Responsive-Z 
 
 
+
 ### responsive Wordpress theme based on Foundation 5 & [FoundationPress](https://github.com/olefredrik/FoundationPress) by [olefredrik](https://github.com/olefredrik)
+
 
 
 ### Requirements
@@ -12,22 +14,14 @@
   * [bower](http://bower.io): `npm install bower -g`
   
 
+
 ### Quickstart
 
-  * [Download this starter compass project and unzip it](https://github.com/zurb/foundation-compass-template/archive/master.zip)
   * Run `bower install` to install the latest version of Foundation
   
 To compile your changes as you design, run the following command:
 
 ```bash
-bundle exec compass watch
+compass watch
 ```
 
-
-### Upgrading
-
-If you'd like to upgrade to a newer version of Foundation down the road just run:
-
-```bash
-bower update
-```
