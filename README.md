@@ -2,7 +2,7 @@
 
 
 
-### responsive Wordpress theme based on Foundation 5 & [FoundationPress](https://github.com/olefredrik/FoundationPress) by [olefredrik](https://github.com/olefredrik)
+### responsive Wordpress theme based on [Foundation 5](http://foundation.zurb.com) 
 
 
 
@@ -25,3 +25,7 @@ To compile your changes as you design, run the following command:
 compass watch
 ```
 
+
+#### Credits
+
+This theme started from & contains files from [FoundationPress](https://github.com/olefredrik/FoundationPress) by [olefredrik](https://github.com/olefredrik)
