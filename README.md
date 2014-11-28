@@ -15,7 +15,7 @@
   * [Download this starter compass project and unzip it](https://github.com/zurb/foundation-compass-template/archive/master.zip)
   * Run `bower install` to install the latest version of Foundation
   
-Then when you're working on your project, just run the following command:
+To compile your changes as you design, run the following command:
 
 ```bash
 bundle exec compass watch
