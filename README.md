@@ -1,6 +1,7 @@
-# Foundation Compass Template
+# Responsive Z 
 
-The easiest way to get started with Foundation + Compass.
+## responsive Wordpress theme based on Foundation 5 & [FoundationPress](https://github.com/olefredrik/FoundationPress) by [olefredrik](https://github.com/olefredrik)
+
 
 ## Requirements
 
@@ -16,7 +17,7 @@ The easiest way to get started with Foundation + Compass.
   
 Then when you're working on your project, just run the following command:
 
-```bash
+```bashgi
 bundle exec compass watch
 ```
 
