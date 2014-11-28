@@ -17,7 +17,7 @@
   
 Then when you're working on your project, just run the following command:
 
-```bashgi
+```bash
 bundle exec compass watch
 ```
 
