@@ -1,12 +1,12 @@
-## Responsive ZF 
+### Responsive ZF 
 
 
 
-### responsive Wordpress theme based on [Foundation 5](http://foundation.zurb.com) 
+#### responsive Wordpress theme based on [Foundation 5](http://foundation.zurb.com) 
 
 
 
-### Requirements
+#### Requirements
 
   * Ruby 1.9+
   * [Node.js](http://nodejs.org)
@@ -15,7 +15,7 @@
   
 
 
-### Quickstart
+#### Quickstart
 
   * Run `bower install` to install the latest version of Foundation
   
