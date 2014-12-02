@@ -29,4 +29,7 @@ require_once('library/enqueue-scripts.php');
 // Add theme support
 require_once('library/theme-support.php');
 
+// Add owl slider admin
+require_once('library/zf_carousel.php');
+
 ?>

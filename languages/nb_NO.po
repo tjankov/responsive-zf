@@ -189,8 +189,8 @@ msgstr ""
 
 #. /archive/search.
 #. *
-#. * @subpackage FoundationPress
-#. * @since FoundationPress 1.0
+#. * @subpackage ResponsiveZF
+#. * @since ResponsiveZF 1.0
 #.
 #: content.php:16
 msgid "Continue reading..."

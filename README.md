@@ -28,4 +28,4 @@ compass watch
 
 #### Credits
 
-This theme started from & contains files from [FoundationPress](https://github.com/olefredrik/FoundationPress) by [olefredrik](https://github.com/olefredrik)
+This theme started from & contains files from [ResponsiveZF](https://github.com/olefredrik/ResponsiveZF) by [olefredrik](https://github.com/olefredrik)

@@ -1,7 +1,7 @@
 <?php
-function FoundationPress_theme_support() {
+function ResponsiveZF_theme_support() {
     // Add language support
-    load_theme_textdomain('FoundationPress', get_template_directory() . '/languages');
+    load_theme_textdomain('ResponsiveZF', get_template_directory() . '/languages');
 
     // Add menu support
     add_theme_support('menus');
@@ -18,5 +18,5 @@ function FoundationPress_theme_support() {
 
 }
 
-add_action('after_setup_theme', 'FoundationPress_theme_support'); 
+add_action('after_setup_theme', 'ResponsiveZF_theme_support'); 
 ?>
